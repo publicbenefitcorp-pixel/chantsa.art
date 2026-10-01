@@ -484,7 +484,7 @@ video {
 .hero-main-artwork-image {
   width: 100vw;
   height: 100vh;
-  object-fit: contain;
+  object-fit: contain !important;
   display: block;
 }
 .hero-caption-row {
